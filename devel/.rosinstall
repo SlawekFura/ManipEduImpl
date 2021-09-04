@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/slawek/catkin_ws/src/Manipulator/devel/setup.sh
