@@ -1,0 +1,6 @@
+Header header
+Point[] points
+---
+Header header
+uint8 numOfJoints
+Point[] points

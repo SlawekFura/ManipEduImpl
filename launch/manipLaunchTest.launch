@@ -5,11 +5,11 @@
   </group>
 
   <group ns="manipulator1">
-    <node pkg="manipulator" name="IKNodeName" type="IKNode.py"/>
+    <node pkg="manipulator" name="SKNodeName" type="SKNode.py"/>
   </group>
 
   <group ns="manipulator1">
-    <node pkg="manipulator" name="SKNodeName" type="SKNode.py"/>
+    <node pkg="manipulator" name="IKNodeName" type="IKNode.py"/>
   </group>
 
   <group ns="manipulator1">
